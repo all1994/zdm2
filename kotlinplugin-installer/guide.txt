@@ -1,0 +1,3 @@
+please compress each directories as zip file.
+And please see attached guide png. It will help you how to install plugin.
+I pushed two versions of kotlin plugins-I recommed 1.3.50

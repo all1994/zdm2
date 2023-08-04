@@ -1,1 +1,3 @@
-please cody org.jetbrains.kotlin folder to offline directly
+Please try kotlinplugin-installer folder's guide.
+If it does not work, please try "add kotlin to an existing app" zip file.
+Finally, if above two does not work, please cody org.jetbrains.kotlin folder to offline directly
